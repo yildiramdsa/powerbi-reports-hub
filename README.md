@@ -1,4 +1,4 @@
-# powerbi-reports-hub
+# Power BI Reports Hub
 
 **Tech Stack:** ![PowerBI](https://img.shields.io/badge/PowerBI-D1B30A?logo=power-bi&logoColor=white)
 
